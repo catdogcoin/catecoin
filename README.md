@@ -1,0 +1,2 @@
+# catecoin
+very currency
